@@ -324,12 +324,7 @@ footer {
 
 }
 
-.midt_footer {
-  /* display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-direction: column; */
-}
+
 
 .ul {
   display: grid;
@@ -500,7 +495,7 @@ footer {
   }
 
   .left_footer {
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
   }
 
 }
