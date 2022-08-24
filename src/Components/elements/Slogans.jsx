@@ -15,7 +15,7 @@ const Slogans = () => {
                         data.map((item, id) => {
 
                             return (
-                                <div key={id} className="data_inside col-lg-12 col-md-12">
+                                <div key={id} className="data_inside col-xl-12 col-lg-12 col-md-12">
                                     <p className='data_para' title='Click to copy' style={{ marginTop: '1rem', marginBottom: '1rem' }}>
                                         {item.title}
                                     </p>

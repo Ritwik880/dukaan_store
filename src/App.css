@@ -91,7 +91,7 @@ ul {
 
 
 
-input[type="email"] {
+input[type="search"] {
   width: 25%;
 }
 
@@ -411,7 +411,7 @@ footer {
     margin-bottom: 3rem;
   }
 
-  input[type="email"] {
+  input[type="search"] {
     width: 100%;
   }
 
@@ -493,7 +493,7 @@ footer {
     margin-bottom: 3rem;
   }
 
-  input[type="email"] {
+  input[type="search"] {
     width: 100%;
   }
 
@@ -561,7 +561,7 @@ footer {
     max-width: 90%;
   }
 
-  input[type="email"] {
+  input[type="search"] {
     width: 100%;
   }
 
@@ -571,9 +571,9 @@ footer {
 }
 
 @media screen and (min-width: 1900px) {
-  .container {
+  /* .container {
     width: 2000px;
-  }
+  } */
 
   .landing {
     height: 1500px;
