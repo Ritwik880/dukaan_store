@@ -47,7 +47,7 @@ ul {
 
 .landing {
   background: #FAFAFA;
-  height: 1500px;
+  height: 1550px;
 }
 
 .landing_dukaan {
@@ -412,7 +412,7 @@ footer {
 
 @media (max-width: 767px) {
   .landing {
-    height: 2700px;
+    height: 2400px;
   }
 
   .data_para {
@@ -506,8 +506,10 @@ footer {
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
-  .landing {
-    height: 1600px;
+
+
+  .data_para {
+    width: 100%;
   }
 
   .landing_dukaan {
@@ -584,8 +586,10 @@ footer {
 
 
 @media (min-width: 1024px) and (max-width: 1200px) {
-  .landing {
-    height: 1600px;
+
+
+  .data_para {
+    width: 100%;
   }
 
   .landing_dukaan {
@@ -604,11 +608,15 @@ footer {
 }
 
 @media screen and (min-width: 1900px) {
+
   /* .container {
     width: 2000px;
   } */
+  .data_para {
+    width: 100%;
+  }
 
   .landing {
-    height: 1500px;
+    height: 1377px;
   }
 }
