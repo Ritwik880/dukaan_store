@@ -425,7 +425,7 @@ footer {
 
   .ul {
     column-gap: 1rem;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
   }
 
   .landing_dukaan {
@@ -496,7 +496,7 @@ footer {
 
   .social_ul {
     flex-direction: row;
-    gap: 2rem;
+    gap: 1.5rem;
   }
 
   .left_footer {
@@ -512,7 +512,7 @@ footer {
 
   .landing_dukaan {
     padding: 2rem 1rem;
-    max-width: 85%;
+    max-width: 87%;
   }
 
   .data {
@@ -569,7 +569,7 @@ footer {
 
   .social_ul {
     flex-direction: row;
-    gap: 5rem;
+    gap: 6rem;
   }
 
   .left_footer {
@@ -577,7 +577,7 @@ footer {
   }
 
   .ul {
-    column-gap: 3rem;
+    column-gap: 4rem;
   }
 
 }
