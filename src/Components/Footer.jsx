@@ -23,7 +23,9 @@ const Footer = () => {
                                 <li>FAQ's</li>
                                 <li>Blog</li>
                                 <li>Banned Items</li>
-                                <li>Jobs</li>
+                                <li>Jobs
+                                    <span className='jobs'>3</span>
+                                </li>
                             </ul>
 
 
