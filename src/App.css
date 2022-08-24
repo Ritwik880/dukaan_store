@@ -162,7 +162,7 @@ input[type="search"] {
 .data_inside {
   background: #F2F2F2;
   border-radius: 4px;
-  padding: 1rem 0.5rem;
+  padding: 0.5rem;
 
 }
 
@@ -173,6 +173,7 @@ input[type="search"] {
   line-height: 22px;
   color: #1A181E;
   cursor: pointer;
+  width: 60%;
 
 }
 
@@ -412,6 +413,10 @@ footer {
 @media (max-width: 767px) {
   .landing {
     height: 2700px;
+  }
+
+  .data_para {
+    width: 100%;
   }
 
   footer {
